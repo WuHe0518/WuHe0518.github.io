@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://WuHe0518.github.io</id>
     <title>黄油猫</title>
-    <updated>2020-05-23T14:03:56.533Z</updated>
+    <updated>2020-05-23T14:10:44.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://WuHe0518.github.io"/>
     <link rel="self" href="https://WuHe0518.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://WuHe0518.github.io/images/avatar.png</logo>
     <icon>https://WuHe0518.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 黄油猫</rights>
+    <entry>
+        <title type="html"><![CDATA[坚信不会被打脸的flag]]></title>
+        <id>https://WuHe0518.github.io/post/jian-xin-bu-hui-bei-da-lian-de-flag/</id>
+        <link href="https://WuHe0518.github.io/post/jian-xin-bu-hui-bei-da-lian-de-flag/">
+        </link>
+        <updated>2020-05-23T14:07:57.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.5.23 立誓：十天补完三月课，不破楼兰终不还</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://WuHe0518.github.io/post/hello-gridea/</id>
